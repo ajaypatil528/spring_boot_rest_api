@@ -1,0 +1,4 @@
+app:
+  messages:
+    welcomeMsg: Welcome to Spring Boot
+    greetMsg: Good Morning!!
